@@ -20,12 +20,12 @@ We welcome contributions to this repo in the form of fixes to existing examples 
 
 ### Getting Started:
 
-TBD
+Coming Soon...
 		
 
 ## Examples <a name="examples"></a>
 
-TBD
+Coming Soon...
 
 ## Checksum <a name="checksum"></a>
 
@@ -38,7 +38,7 @@ We welcome contributions to this repo in the form of fixes to existing examples 
 
 ### Samples <a name="samples"></a>
 
-In addition to the tool itself, several common examples have been added to this repository in the form of a sample porfolio.
+Coming Soon...
 
 ### Official Resources
 - [SEC.gov](https://www.sec.gov/edgar/searchedgar/companysearch)
