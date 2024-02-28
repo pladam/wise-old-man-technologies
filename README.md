@@ -1,4 +1,4 @@
-Amazon Security Lake Resources
+Wise Old Man Resources
 ========================
 
 ## Table of Contents
