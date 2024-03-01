@@ -1,4 +1,4 @@
-Amazon Security Lake Resources
+Wise Old Man Resources
 ========================
 
 ## Table of Contents
@@ -51,7 +51,7 @@ This library is licensed under the MIT-0 License.
 Wise Old Man Technologies
 ========================
 
-## Table of Contents
+## Appendix
 1. [About this Repo](#about)
 2. [Usage Guide](#usage)
 3. [Examples](#examples)

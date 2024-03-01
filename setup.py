@@ -14,8 +14,8 @@ setup(
     version='1.0.0',
     description='Wise Old Man is a portfolio tracking and analysis software for individuals looking to maximize IIR.',
     long_description=readme,
-    author='Adam Plotzker',
-    author_email='pladamgregory@gmail.com',
+    author='adambeyond',
+    author_email='<email@gmail.com>',
     url='https://github.com/aws-samples/wise-old-man-technologies',
     license=license,
     
