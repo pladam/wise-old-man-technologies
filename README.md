@@ -45,16 +45,4 @@ Coming Soon...
 
 # License <a name="license"></a>
 
-This library is licensed under the MIT-0 License.
-
-
-Wise Old Man Technologies
-========================
-
-## Appendix
-1. [About this Repo](#about)
-2. [Usage Guide](#usage)
-3. [Examples](#examples)
-4. [Checksum](#checksum)
-5. [Samples](#samples)
-6. [License](#license)
+This library is licensed under the Apache 2.0 License.
